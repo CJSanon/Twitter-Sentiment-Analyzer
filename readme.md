@@ -5,3 +5,12 @@
 - Upon completion, enrich data with sentiment analyzer (will brainstorm other ways to add on to Twitter trends; news tracker?), write results to a database (determine schema).
 - Make a view on that table in the database and display a dashboard of sentiment trends over various periods of time.
 
+## Technologies
+- Python
+- Flask
+- S3
+- PostgreSQL
+- Airflow as a Lambda Function
+- Twitter API
+- Sentiment Analyzer API
+- Dash (Dashboard framework)

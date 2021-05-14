@@ -8,7 +8,7 @@ The full scope of this project is to have an app that streams the trends of Twit
 ## How It Works
 Currently this project uses Twitter OAuth to log a user into the application. The user can then enter a word or phrase into a search box which searches Twitter using the word or phrase. Text from tweets are analyzed using a sentiment analyzer API. Tweets are displayed and color coded based on their sentiment.
 
-
+![](twitter_sentiment_analyzer_app.gif)
 
 
 

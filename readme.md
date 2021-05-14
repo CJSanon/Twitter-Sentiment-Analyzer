@@ -13,7 +13,6 @@ Currently this project uses Twitter OAuth to log a user into the application. Th
 
 
 
-
 ## Vision for Project
 - Pull Tweets, write to S3, schedule with Airflow.
 - Upon completion, enrich data with sentiment analyzer (will brainstorm other ways to add on to Twitter trends; news tracker?), write results to a database (determine schema).

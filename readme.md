@@ -1,14 +1,15 @@
 # Twitter Sentiment Analyzer
 
 ## Project Description
-The full scope of this project is to have an app that streams the trends of Twitter using a sentiment analyzer. 
-
+A user logs into the application and can search tweets with given keywords; returned tweets are shown with a color for sentiments.. 
 
 
 ## How It Works
 Currently this project uses Twitter OAuth to log a user into the application. The user can then enter a word or phrase into a search box which searches Twitter using the word or phrase. Text from tweets are analyzed using a sentiment analyzer API. Tweets are displayed and color coded based on their sentiment.
 
 ![](twitter_sentiment_analyzer_app.gif)
+
+
 
 
 

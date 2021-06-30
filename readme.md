@@ -1,7 +1,7 @@
 # Twitter Sentiment Analyzer
 
 ## Project Description
-A user logs into the application and can search tweets with given keywords; returned tweets are shown with a color for sentiments.. 
+A user logs into the application and can search tweets with given keywords; returned tweets are shown with a color for sentiments.
 
 
 ## How It Works
